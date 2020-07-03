@@ -19,6 +19,10 @@ class MainActivity : AppCompatActivity() {
         tom.say()
         tom.think()
 
+        val kikuko = Human("キクコ", 88, "死")
+        kikuko.say()
+        kikuko.think()
+
 
 
 
